@@ -30,7 +30,7 @@ jobs:
       - name: Login to Dockerhub
         uses: docker/login-action@v3
         with:
-          username: ManosPK
+          username: manospk
           password: dckr_pat_lwSvD_1xu9nkt1ZRg50gt-Hpkfs
 
     #   - name: Login to GHCR
